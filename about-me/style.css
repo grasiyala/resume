@@ -1,0 +1,48 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:hover{
+      background-color:#3e1979; }
+    div {
+        background-color: rgb(224, 12, 30);
+        width: 500px;
+        padding: 25px;
+        border: 25px solid rgb(64, 8, 194);
+        margin: 25px;
+    }
+
+    #one{
+        background-color: rgb(49, 2, 92);
+        width: 500px;
+        padding: 25px;
+        border: 25px solid rgb(240, 143, 16);
+        margin: 25px;
+
+    }
+
+    .two{
+        background-color: rgb(46, 5, 5);
+        width: 500px;
+        padding: 50px;
+        border: 25px solid rgb(64, 8, 194);
+        margin: 25px;
+  
+    }
+
+
+    #three{
+        background-color: rgb(19, 184, 74);
+        width: 500px;
+        padding: 25px;
+        border: 25px solid rgb(248, 100, 14);
+        margin: 25px;
+
+    }
